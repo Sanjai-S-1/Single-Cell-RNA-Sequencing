@@ -12,3 +12,10 @@ This bioinformatics project focuses on the analysis of single-cell RNA sequencin
   - Characterizing the cellular landscape of heart tissues in both control and heart failure groups.
   - Identifying cell markers associated with specific cell types.
   - Conducting DEG analysis to pinpoint genes differentially expressed between heart failure and control groups.
+
+## Result Higlights
+
+
+## References
+
+- Single cell and lineage tracing studies reveal the impact of CD34+ cells on myocardial fibrosis during heart failure. ([Link for the article](https://doi.org/10.1186/s13287-023-03256-0))
