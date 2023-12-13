@@ -14,7 +14,10 @@ This bioinformatics project focuses on the analysis of single-cell RNA sequencin
   - Conducting DEG analysis to pinpoint genes differentially expressed between heart failure and control groups.
 
 ## Result Higlights
-
+![HF_scrnaseq_04](https://github.com/Sanjai-S-1/Single-Cell-RNA-Sequencing/assets/105348464/fc6d8e7a-9350-44ad-927d-a73590956154)
+![HF_scrnaseq_09](https://github.com/Sanjai-S-1/Single-Cell-RNA-Sequencing/assets/105348464/228b1c17-b52f-42f2-b61d-c82f93beb3c3)
+![HF_scrnaseq_10](https://github.com/Sanjai-S-1/Single-Cell-RNA-Sequencing/assets/105348464/023c626b-0f5d-4e51-8bd0-b5f7aa3dd93d)
+![HF_scrnaseq_11](https://github.com/Sanjai-S-1/Single-Cell-RNA-Sequencing/assets/105348464/6e30024b-9cc6-4a2d-8423-feec5cce75af)
 
 ## References
 
